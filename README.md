@@ -5,3 +5,5 @@
 2. added alt tags to the images
 
 3. replaced some divs with sections
+
+4. added spacing
